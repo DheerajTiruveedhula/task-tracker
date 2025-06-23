@@ -1,13 +1,5 @@
 # Task Track App
 
-**TEAM-17**
-1. G.SOLOMON MATTHEWS(LEAD) 22A81A6121
-2. N.RAJA                   22A81A6145
-3. T.DHEERAJ                22A81A6160
-4. CH MANIKANTA             22A81A6111
-5. P. GANESH                22A81A6152
-6. V. RAMA KRISHNA          23A85A6108
-
 This project is a full-stack task tracking application with:
 - **Frontend:** Vite + React (`/client`)
 - **Backend:** Node.js + Express (`/server`)
@@ -50,5 +42,16 @@ This project is a full-stack task tracking application with:
 - Recurring reminders can be scheduled via `/tasks/:id/schedule-email-reminder`.
 
 ---
+
+
+
+**TEAM-17**
+1. G.SOLOMON MATTHEWS(LEAD) 22A81A6121
+2. N.RAJA                   22A81A6145
+3. T.DHEERAJ                22A81A6160
+4. CH MANIKANTA             22A81A6111
+5. P. GANESH                22A81A6152
+6. V. RAMA KRISHNA          23A85A6108
+
 
 For more details, see the code in each folder.
