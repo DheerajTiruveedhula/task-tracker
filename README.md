@@ -7,6 +7,11 @@ This project is a full-stack task tracking application with:
 
 ## Getting Started
 
+```sh
+   git clone https://github.com/DheerajTiruveedhula
+```
+or download zip
+
 ### Backend
 1. Go to the `server` folder:
    ```sh
