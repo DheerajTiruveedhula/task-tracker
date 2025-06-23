@@ -8,7 +8,7 @@ This project is a full-stack task tracking application with:
 ## Getting Started
 
 ```sh
-   git clone https://github.com/DheerajTiruveedhula
+   [git clone https://github.com/DheerajTiruveedhula](https://github.com/DheerajTiruveedhula/task-tracker.git)
 ```
 or download zip
 
